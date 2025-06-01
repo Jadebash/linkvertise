@@ -1,4 +1,3 @@
-C:\Users\jaano\Desktop\New folder (3)>node asdasd.js
 ID 0 = User does not exist
 ID 1 = User does not exist
 ID 2 = Taymetic
